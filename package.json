@@ -1,0 +1,25 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "lodash": "^4.17.4",
+    "simple-get-json": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSWolfe97/json.git"
+  },
+  "author": "Garrett Wolfe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSWolfe97/json/issues"
+  },
+  "homepage": "https://github.com/GSWolfe97/json#readme"
+}
