@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.3.0",
+    "express": "^4.16.2",
     "lodash": "^4.17.4",
     "simple-get-json": "^1.1.0"
   },
